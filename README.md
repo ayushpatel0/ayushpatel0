@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/profile/u/113663385292116052280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="profile/u/113663385292116052280" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush-patel-877624244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-patel-877624244/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100011339733543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011339733543" height="30" width="40" /></a>
+<a href="https://developers.google.com/profile/u/113663385292116052280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="profile/u/113663385292116052280" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-patel-877624244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-patel-877624244/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011339733543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011339733543" height="30" width="40" /></a>
 <a href="https://instagram.com/__ayush_patel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ayush_patel_" height="30" width="40" /></a>
-<a href="https://discord.gg/_aayush_patel_#7103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_aayush_patel_#7103" height="30" width="40" /></a>
+<a href="https://discord.com/_aayush_patel_#7103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_aayush_patel_#7103" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
