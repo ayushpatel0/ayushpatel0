@@ -28,7 +28,9 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpatel0&" alt="ayushpatel0" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ayushpatel0&show_icons=true&locale=en" alt="ayushpatel0" />&nbsp;</p>&nbsp;
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ayushpatel0&show_icons=true&locale=en" alt="ayushpatel0" />&nbsp;</p>
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
