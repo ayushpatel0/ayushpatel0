@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpatel0&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpatel0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="500" width="500" src="https://github-profile-trophy.vercel.app/?username=ayushpatel0" alt="ayushpatel0" /></a> </p>
-
+- 🌱 I’m currently learning **Javascript,reactjs,nodejs**
+- 💬 Ask me about **c,java,html.css**
 - 📫 How to reach me **ayush.p.verma111@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushpatel0" alt="ayushpatel0" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
