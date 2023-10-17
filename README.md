@@ -26,9 +26,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpatel0&show_icons=true&locale=en&layout=compact" alt="ayushpatel0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushpatel0&show_icons=true&locale=en" alt="ayushpatel0" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpatel0&" alt="ayushpatel0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushpatel0&show_icons=true&locale=en" alt="ayushpatel0" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -37,4 +37,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ayushpatel0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img align="right" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
