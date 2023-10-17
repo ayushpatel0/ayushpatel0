@@ -37,4 +37,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ayushpatel0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img align="right" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
