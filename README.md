@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpatel0&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpatel0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  width="400" src="https://github-profile-trophy.vercel.app/?username=ayushpatel0" alt="ayushpatel0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="500" width="500" src="https://github-profile-trophy.vercel.app/?username=ayushpatel0" alt="ayushpatel0" /></a> </p>
 
 - 📫 How to reach me **ayush.p.verma111@gmail.com**
 
