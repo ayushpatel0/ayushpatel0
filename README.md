@@ -24,11 +24,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushpatel0" alt="ayushpatel0" /></a> &nbsp;</p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpatel0&show_icons=true&locale=en&layout=compact" alt="ayushpatel0" /></p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpatel0&show_icons=true&locale=en&layout=compact" alt="ayushpatel0" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpatel0&" alt="ayushpatel0" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpatel0&" alt="ayushpatel0" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ayushpatel0&show_icons=true&locale=en" alt="ayushpatel0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ayushpatel0&show_icons=true&locale=en" alt="ayushpatel0" /></p>
 
 
 ### ✍️ Random Dev Quote
