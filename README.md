@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpatel0&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpatel0" /> </p>
 
-- 🌱 I’m currently learning **Web Scrapping,Automation**
+- 🌱 I’m currently learning **Web Development,Machine Learning**
 - 💬 Ask me about **Java,HTML,CSS,Python**
 - 📫 How to reach me **ayush.p.verma111@gmail.com**
 
