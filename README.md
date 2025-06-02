@@ -24,7 +24,7 @@
 
 | Languages | Frameworks and Tools |
 | --------- | ------------ |
-| [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,typescript,js,golang,markdown&theme=dark&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,postman,postgres,vercel,sqlite,flask,nextjs,fastapi,vscode,vercel,googlecloud,git&theme=dark&perline=8)](https://skillicons.dev)
+| [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,typescript,js,golang,markdown&theme=dark&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,postman,postgres,sqlite,flask,nextjs,fastapi,vscode,vercel,googlecloud,git&theme=dark&perline=8)](https://skillicons.dev)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushpatel0" alt="ayushpatel0" /></a> &nbsp;</p>
 
