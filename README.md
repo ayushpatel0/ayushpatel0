@@ -24,9 +24,9 @@
 
 | Languages | Frameworks and Tools |
 | --------- | ------------ |
-| [![My Skills](https://skillicons.dev/icons?i=c,python,java,mysql,html,css,js,markdown&theme=dark&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,postman,vercel,flask,fastapi,vscode,git&theme=dark&perline=7)](https://skillicons.dev)
+| [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,typescript,js,golang,markdown&theme=dark&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,postman,postgres,vercel,sqlite,flask,nextjs,fastapi,vscode,vercel,googlecloud,git&theme=dark&perline=8)](https://skillicons.dev)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushpatel0" alt="ayushpatel0" /></a> &nbsp;</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushpatel0" alt="ayushpatel0" /></a> &nbsp;</p>
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpatel0&show_icons=true&locale=en&layout=compact" alt="ayushpatel0" /></p>
 
